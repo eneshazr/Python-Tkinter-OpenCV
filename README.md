@@ -1,6 +1,8 @@
 # Python-Tkinter-Opencv
 
-Python-Tkinter-OpenCV ile basit bir maskeleme aracı.
+# Python-Tkinter-OpenCV ile basit bir maskeleme aracı.
+
+# A simple masking tool with Python-Tkinter-OpenCV.
 
 Netleştirme
 ![netleştirme](https://user-images.githubusercontent.com/84662757/119256873-7031d000-bbcb-11eb-9700-88849242e46a.png)
