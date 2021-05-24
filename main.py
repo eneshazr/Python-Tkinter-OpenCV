@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 # Başlangıç Tarihi: 06.05.2021 - 17:06
 # Bitiş Tarihi: 11.05.2021 - 21:00
-
+# instagram.com/yazilimfuryasi
+# yazilimfuryasi.com
 
 from tkinter import *
 from tkinter import filedialog
